@@ -15,3 +15,7 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+*.up  diff=astextplain
+*.tmp  diff=astextplain
+*.txt  diff=astextplain
+  
